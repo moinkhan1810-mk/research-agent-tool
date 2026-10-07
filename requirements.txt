@@ -1,0 +1,6 @@
+# Python 3.11 or 3.12 recommended (CrewAI needs >=3.10 and <3.14)
+crewai>=1.14.7,<1.16
+litellm
+ddgs
+streamlit
+python-dotenv
